@@ -9,7 +9,7 @@
 
 ## Introduction
 
-The Indoor Flights App, developed using Tkinter, provides an interface for controlling drone flights in indoor environments with a computer.
+The Indoor Flights App, developed using Tkinter, provides an interface for controlling drone flights in indoor environments with a computer. The applicaction uses PyMAVLink library to communicate with the drone
 
 ## Requirements
 
