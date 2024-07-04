@@ -32,4 +32,8 @@ If you are going to try the application in local mode using the simulation of Mi
 
 ## Demo
 
-Here you can see a demo on how to run the IndoorFlights app:  
+Here you can see a demo on how to run the IndoorFlights app: [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Demo_IndoorFlights-pink.svg)](https://www.youtube.com/watch?v=28zr5fpf5BM_channel=DronsEETAC)
+
+In order to understand the code of the app and its modules better it is recommended to watch the following video:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Code_IndoorFlights-pink.svg)](https://www.youtube.com/watch?v=4kmVlHyxrOU_channel=DronsEETAC)
+
